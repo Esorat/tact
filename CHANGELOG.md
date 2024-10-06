@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - Collisions in getter method ids are now handled and reported properly: PR [#875](https://github.com/tact-lang/tact/pull/875)
+- Docs: compilation of examples in `data-structures.mdx`: PR [#917](https://github.com/tact-lang/tact/pull/917)
 
 ### Release contributors
 
